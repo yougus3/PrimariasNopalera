@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "105850659783",
+    "project_id": "escuelas-9679c",
+    "storage_bucket": "escuelas-9679c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105850659783:android:2d60bd8b755d260fe62fe2",
+        "android_client_info": {
+          "package_name": "com.gms.primariasnopalera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105850659783-g4hbfo9jnv18gtiui19q2tcv9o92vta2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6XmbgmkbMQxOZkGdsI2rq1Icum8EpDy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105850659783-g4hbfo9jnv18gtiui19q2tcv9o92vta2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105850659783-hr7ijib6icaecfiul61am3lma6sm71bn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gms.escuelas.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
