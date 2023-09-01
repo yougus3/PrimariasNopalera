@@ -3,6 +3,7 @@
     <style name="Base.Theme.PrimariasNopalera" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <item name="colorPrimary">@color/black</item>
-        <item name="colorSecondary">@color/golden</item>
+        <item name="colorSecondary">@color/green</item>
+        <item name="colorTertiary">@color/golden</item>
     </style>
 </resources>
